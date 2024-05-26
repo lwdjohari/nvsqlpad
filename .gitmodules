@@ -1,0 +1,6 @@
+[submodule "libs/nvcore-rust-binding"]
+	path = libs/nvcore-rust-binding
+	url = https://github.com/lwdjohari/nvcore-rust-binding.git
+[submodule "libs/nvcore-cxx"]
+	path = libs/nvcore-cxx
+	url = https://github.com/lwdjohari/nvcore.git
